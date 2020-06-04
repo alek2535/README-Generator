@@ -3,7 +3,7 @@ function generateMarkdown(data) {
   return `
 # ${data.title}
 
-![License Badge](https://img.shields.io/badge/license-${data.license}-blue)
+![License Badge](https://img.shields.io/badge/license-${data.license[0]}-blue)
 
 ## Description
 
@@ -28,7 +28,7 @@ ${data.usage}
 
 ## License
 
-${data.license}
+This project is covered under the ${data.license[0]} license. For more information go to [https://choosealicense.com/licenses/](https://choosealicense.com/licenses/)
 
 ## Contributing
 
@@ -48,4 +48,7 @@ If you have any questions about the project you can reach me at the above email.
 `;
 }
 
-module.exports = generateMarkdown;
+module.exports = 
+{
+  generateMarkdown: generateMarkdown
+}
