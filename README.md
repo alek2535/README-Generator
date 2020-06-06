@@ -30,7 +30,7 @@ The README will be populated with the following:
   * User GitHub profile picture
   * User GitHub email
 
-An example of a generated README can be seen in the README2.md file in this repo.
+An example of a generated README can be seen in the [README2.md](./README2.md) file in this repo.
 
 ## Table of Contents
 
@@ -67,6 +67,8 @@ THEN a README for the repo is generated
 ## Visuals
 
 ![README-Generator-demo](./Assets/README-Generator-(6_5_20).gif)
+
+Here is a link of the video for this gif [https://drive.google.com/file/d/1uZOt4hyNNOaGnDl_PlNVICKA1cEhlIA3/view](https://drive.google.com/file/d/1uZOt4hyNNOaGnDl_PlNVICKA1cEhlIA3/view)
 
 ## Installation
 
