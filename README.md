@@ -30,6 +30,8 @@ The README will be populated with the following:
   * User GitHub profile picture
   * User GitHub email
 
+An example of a generated README can be seen in the README2.md file in this repo.
+
 ## Table of Contents
 
   * [User-Story](#user-story)
