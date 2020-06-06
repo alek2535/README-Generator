@@ -96,7 +96,7 @@ Technologies Used:
 
 ## Contributing
 
-Use the Contributor Covenant Code of Conduct
+Use the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
 
 ## License
 
